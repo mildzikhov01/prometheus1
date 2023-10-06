@@ -59,10 +59,8 @@
 Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
 
 
-
-
 ### Решение
-
+![2](222.png)
 
 ---
 
@@ -87,5 +85,7 @@
 
 
 ### Решение
+![3](3333.png)
 
+![4](4444.png)
 
